@@ -1,0 +1,34 @@
+html, body{
+    background-color: #000;
+    text-align: center;
+  }
+
+  canvas{
+    background-image: url('/assets/background.png');
+  }
+  
+  button{
+    margin-top: 1em;
+    padding: 10px 1em;
+    letter-spacing: 1px;
+    background: none;
+    border: 2px solid #444;
+    height: 2.25em;
+    border-radius: 2.25em;
+    color: #444;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: .1s;
+    outline: none;
+    cursor: pointer;
+    color: #2196F3;
+    border-color: #2196F3;
+    font-family: 'Odibee Sans', cursive;
+  }
+
+  button:hover,
+  button:focus{
+    text-shadow: 0 0 7px #2196F3;
+    box-shadow: 0 0 15px #2196F3, inset 0 0 15px #2196F3;
+  }
