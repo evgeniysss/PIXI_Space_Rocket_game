@@ -1,6 +1,6 @@
 # Game rules
 
-![Screenshot of game](https://github.com/evgeniysss/PIXI_game/dist/screenshot.jpg)
+![Screenshot of game](https://github.com/evgeniysss/PIXI_Space_Rocket_game/blob/master/dist/screenshot.jpg)
 
 - Создать примитивную игру с космическим кораблём, сбивающим астероиды, используя следующие технологии: HTML, JavaScript (ES2018 ...), PIXI.js;
 - Размер холста 1280 х 720;
